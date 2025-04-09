@@ -1,4 +1,4 @@
-baseURL = "https://hercilio.me/"
+baseURL = "/"
 languageCode = "pt-br"
 title = "Hercilio Lopes"
 theme = "PaperMod"
