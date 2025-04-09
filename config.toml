@@ -1,0 +1,53 @@
+baseURL = "https://hercilio.me/"
+languageCode = "pt-br"
+title = "Hercilio Lopes"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  defaultTheme = "auto"
+  hideFooter = true
+  # Configurações de busca
+  ShowSearch = true
+  #ShowToc = true
+  #TocOpen = false
+  # Configurações de output
+  outputDir = "public"
+  disableKinds = []
+  enableGitInfo = true
+  enableEmoji = true
+  enableRobotsTXT = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "sobre"
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categorias"
+    url = "/categories/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Buscar"
+    url = "/search/"
+    weight = 30
+
+  [[menu.main]]
+  name = "Arquivos"
+  url = "/archives/"
+  weight = 40
+
+
