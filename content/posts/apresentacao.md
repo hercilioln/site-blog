@@ -12,7 +12,7 @@ draft: false
 
 Olá! Não sei se você está bem hoje, mas espero que sim.
 
-É isso. Depois de muito tempo, consegui um tempo para montar meu primeiro — aliás, nem sei qual o número deste. Tive um em 2010 que durou apenas um mês. Era feito no antigo Blogspot (nem sei se ainda existe), e foi lá que aprendi a mexer com HTML, CSS e JavaScript.
+É isso. Depois de muito tempo, consegui um tempo para montar meu primeiro blog — aliás, nem sei qual o número deste. Tive um em 2010 que durou apenas um mês. Era feito no antigo Blogspot (nem sei se ainda existe), e foi lá que aprendi a mexer com HTML, CSS e JavaScript.
 
 Depois, mexi um tempo com o Tumblr e acabei aprendendo a montar os famosos *themes* da época. Lembro que passava horas mudando um *hover*, ajustando um *scroll* mais suave, criando uma *navbar* bonitona… Foi uma era de ouro da internet. Bons tempos.
 
