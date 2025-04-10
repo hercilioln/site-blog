@@ -23,13 +23,15 @@ Mas aí entrei na faculdade e agora tô aqui como desenvolvedor pleno, trabalhan
 
 Pois bem, há um tempo venho tentando montar um blog, e agora estou finalmente aqui pra expor algumas ideias e devaneios da minha carreira na área de tecnologia.
 
-Depois de muita pesquisa, encontrei um gerador de site estático chamado **HUGO**, feito em Go, que me agradou demais. A proposta dele é ser somente um gerador estático — e o mais incrível: 100% compatível com Markdown. Achei isso sensacional! É uma abordagem totalmente diferente de um CMS, por exemplo. Não preciso de painel admin, nem nada. Eu queria exatamente isso: algo minimalista, bom e flexível.
+Depois de muita pesquisa, encontrei um gerador de site estático chamado **HUGO**, feito em Go, que me agradou demais. A proposta dele é ser somente um gerador estático — e o mais incrível: 100% compatível com Markdown. Achei isso sensacional! É uma abordagem totalmente diferente de um CMS, por exemplo. Não preciso de painel admin nem de banco de dados. Eu queria exatamente isso: algo minimalista, bom e flexível.
 
-Como ele é só um gerador de site estático mesmo, não tem conexão com banco de dados, nada disso. Todo o conteúdo fica no seu repositório. E como pretendo compartilhar conhecimento, não vejo problema nenhum em deixar tudo disponível pra quem quiser.
+Como ele é só um gerador de site estático mesmo, não tem conexão com banco, nem nada dinâmico. Todo o conteúdo fica no seu repositório, e pode ser hospedado no GitHub Pages, Netlify ou onde quiser.
 
-Achei isso incrível e fiquei me perguntando: *"Por que caralhos eu não pensei nisso quando tava procurando um CMS?"* kkkkk. Na época, cheguei a usar o Ghost — muito bonito e tal, mas cheio de coisa chata pra configurar. O WordPress, então... ótimo, mas robusto demais pro que eu queria. Outros mais minimalistas que encontrei não tinham temas bons, e eu tava com preguiça de aprender ou tentar fazer. 
+Eu já tinha esbarrado em alguns geradores de sites estáticos antes, mas nada me chamava atenção. O HUGO tem uns temas bacanas, uma comunidade ativa e o melhor: escreve tudo em Markdown — que eu já uso há um tempo e gosto bastante.
 
-Em breve irei fazer um post sobre como ele funciona e como configurar e tudo mais. 
+Na época, cheguei a experimentar o Ghost — bem bonito, mas cheio de configurações chatas. O WordPress, então... ótimo, mas robusto demais pro que eu buscava. Outros projetos mais minimalistas que encontrei não tinham temas legais, e eu também não estava com paciência de reinventar a roda.
+
+Em breve, vou fazer um post explicando como ele funciona, como configurar tudo e colocar no ar. Se você também curte uma abordagem mais simples, acho que vai gostar.
 
 Aqui vou trazer alguns tutoriais, dicas, reflexões da vida pessoal e profissional.  
 Sinta-se à vontade! Se algo for interessante, compartilhe com outras pessoas.  
