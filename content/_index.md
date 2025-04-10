@@ -7,7 +7,7 @@ images: ["/assets/profile.jpg"]
 <div class=profile>
     <div class=profile_inner><img draggable=false src="/assets/profile.jpg" alt=profile-picture title=profile-picture height=120 width=120>
         <h1>Hercilio Lopes</h1>
-        <span>Dev que já foi suporte técnico, fã de terminal, café e soluções elegantes. Transformando bugs em features desde a época do Blogspot. Hoje, escrevo código com Laravel, brinco com Elixir, GraphQL e flerto com IA.</span>
+        <span>Dev que já foi suporte técnico, bacharel em Sistemas de Informção. Transformando bugs em features desde a época do Blogspot. Hoje, escrevo código com Laravel, as vezes Elixir, GraphQL e algumas coisas de IA.</span>
         <div class=social-icons>
             <a href=https://www.linkedin.com/in/hercilioln/ target=_blank rel="noopener noreferrer me" title=Linkedin>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
