@@ -21,12 +21,12 @@ Esse mesmo amigo me ajudou a conseguir uma vaga como dev júnior na **UEMA (Univ
 
 Hoje trabalho como **desenvolvedor pleno na Mytia**, uma empresa pequena, mas com grande potencial. Criamos soluções para grandes empresas, com foco especial em **Inteligência Artificial**. Já entregamos projetos importantes que ajudam centenas (ou milhares) de pessoas.
 
-Nas horas vagas, gosto de **assistir filmes** (principalmente nacionais) e de **cozinhar**. É o meu jeito de desligar um pouco e recarregar as energias.
+Nas horas vagas, gosto de **assistir filmes** (principalmente nacionais) e de **cozinhar**. 
 
 ---
 
-**Por enquanto é isso!** Não sei mais o que escrever aqui ahaha 😄  
-Se algo neste blog te ajudar ou te interessar, **compartilha com alguém!**  
-E se quiser trocar uma ideia, minhas redes sociais e e-mail estão na **home** do site. Obrigado por passar por aqui! 🙌
+>**Por enquanto é isso!** Não sei mais o que escrever aqui ahaha 😄  
+>Se algo neste blog te ajudar ou te interessar, **compartilha com alguém!**  
+>E se quiser trocar uma ideia, minhas redes sociais e e-mail estão na **home** do site. Obrigado por passar por aqui! 🙌
 
 ---

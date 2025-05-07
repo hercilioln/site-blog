@@ -1,7 +1,7 @@
 ---
-title: "Bem-vindo ao Meu Blog"
+title: "Hercilio"
 author: "Hercílio"
-summary: "Minha presença na internet"
+summary: "Hercilio Lopes"
 images: ["/assets/profile.jpg"]
 ---
 <div class=profile>
@@ -24,7 +24,7 @@ images: ["/assets/profile.jpg"]
                     6.44 7a3.37 3.37 0 0 0-.94 2.61V22"/>
                 </svg>
             </a>
-            <a href=https://open.spotify.com/user/12171626066?si=s97TWaEPT7mXLUFwUiBUHA target=_blank rel="noopener noreferrer me" title=Leetcode>
+            <a href=https://open.spotify.com/user/12171626066?si=s97TWaEPT7mXLUFwUiBUHA target=_blank rel="noopener noreferrer me" title=Spotify>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <circle cx="12" cy="12" r="10" />
                 <path d="M8 11c2.5-1 5.5-1 8 0" />
