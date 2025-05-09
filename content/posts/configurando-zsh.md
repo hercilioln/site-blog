@@ -128,6 +128,7 @@ echo 'source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh' >> ~/.zshrc
 
 ### 🔧 Personalização
 
-O Zsh tem centenas de plugins e temas. É altamente personalizável. Basta uma busca rápida para encontrar várias ideias. No meu caso, deixo o básico mesmo — o que já me atende muito bem.
+O Zsh tem centenas de plugins e temas. É altamente personalizável. Basta uma busca rápida para encontrar várias ideias. Nesse [Tutorial aqui](/posts/otimizando-terminal/) eu indico alguns que otimizam o uso do terminal incluindo o zsh
+
 
 ---
