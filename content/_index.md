@@ -47,9 +47,9 @@ images: ["/assets/profile.jpg"]
             </a>
         </div>
         <div class=buttons>
-        <a class=button href=/posts rel=noopener title=blogs><span class=button-inner>blog </span></a>
-        <a class=button href=/links rel=noopener title=tools><span class=button-inner>links úteis </span></a>
-        <a class=button href=/projects rel=noopener title=resume><span class=button-inner>projetos</span></a></div>
+        <a class=button href=/posts rel=noopener title=blogs><span class=button-inner>Blog </span></a>
+        <a class=button href=/links rel=noopener title=tools><span class=button-inner>Links Úteis </span></a>
+        <a class=button href=/projects rel=noopener title=resume><span class=button-inner>Projetos</span></a></div>
     </div>
 </div>
 </div>

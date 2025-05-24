@@ -35,7 +35,7 @@ Em breve, vou fazer um post explicando como ele funciona, como configurar tudo e
 
 Aqui vou trazer alguns tutoriais, dicas, reflexões da vida pessoal e profissional.  
 Sinta-se à vontade! Se algo for interessante, compartilhe com outras pessoas.  
-Se quiser, manda um [e-mail](mailto:contato@hercilio.me) ou uma mensagem no [Telegram](https://t.me/hercilioln).
+Se quiser trocar uma ideia, minhas redes sociais e e-mail estão na **home** do site. 
 
 
 **Obrigado e seja bem-vindo(a)!** 🚀

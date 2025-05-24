@@ -29,26 +29,32 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
+    identifier = "inicio"
+    name = "Início"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
     identifier = "sobre"
     name = "Sobre"
     url = "/sobre/"
-    weight = 10
+    weight = 20
 
   [[menu.main]]
     identifier = "categories"
     name = "Categorias"
     url = "/categories/"
-    weight = 20
+    weight = 30
 
   [[menu.main]]
     identifier = "search"
     name = "Buscar"
     url = "/search/"
-    weight = 30
+    weight = 40
 
   [[menu.main]]
   name = "Arquivos"
   url = "/archives/"
-  weight = 40
+  weight = 50
 
 
